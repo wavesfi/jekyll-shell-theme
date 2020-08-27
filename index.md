@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: WAVES STAKING YIELD AGGREGATOR
+title: DeFi Enabled Waves Node
 
 detail_image: assets/logo.svg
 
