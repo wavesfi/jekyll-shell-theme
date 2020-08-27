@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: waves.fi
+title: WAVES STAKING YIELD AGGREGATOR
 
 detail_image: assets/logo.svg
 
