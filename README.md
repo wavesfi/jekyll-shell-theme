@@ -1,4 +1,4 @@
-<img src="assets/theme_logo.svg" class="detail_header">
+<img src="assets/logo.svg" class="detail_header">
 
 # jekyll-shell-theme
 
