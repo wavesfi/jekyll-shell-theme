@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: DeFi Enabled Waves Node
+title: waves.fi
 
 detail_image: assets/wavesfilogo.png
 
