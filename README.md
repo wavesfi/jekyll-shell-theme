@@ -1,4 +1,4 @@
-<img src="assets/logo.svg" class="detail_header">
+<img src="assets/wavesfilogo.png" class="detail_header">
 
 # jekyll-shell-theme
 
