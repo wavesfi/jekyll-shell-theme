@@ -4,7 +4,7 @@ permalink: /
 permalink_name: /home
 title: DeFi Enabled Waves Node
 
-detail_image: assets/logo.svg
+detail_image: assets/wavesfilogo.png
 
 ---
 
