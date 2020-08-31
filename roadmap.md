@@ -15,7 +15,7 @@ title: roadmap.md
    initial DAO code development.
   * Code review, DAO deployment and website update (to enable proposals and voting).
   * Once the Waves.FI node balance reaches 30k WAVES all WAVES will be transferred into the DAO.
-  * Governance token distribution has finnished. That's it!
+  * Governance token distribution has finnished with the transfer of funds.
   
 - Age of the DAO
   * The DAO and its funds are completely governed by DAO token holders.
