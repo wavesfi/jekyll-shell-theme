@@ -2,14 +2,13 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: waves.fi
+title: WAVESNODE ADDRESS HERE
 
 detail_image: assets/wavesfilogo.png
-
 ---
 
-# jekyll-shell-theme
+# Help bootstrapping the DAO by staking WAVES to the node and become a part of future governance.
 
-**Jekyll Shell Theme** is an open source light-weight customizable jekyll theme for your site! You can use it to spice up your personal profiles, project pages or just about anything!
+**Waves.Fi** is a novell approach to maximizing staking yields. By constantly re-investing staking rewards in the DeFi universe **(we going cross-chain, baby!)** the DAO will be aggregating yields to fund DeFi developments while providing these tools to the Waves.Fi node in order to achieve exceptional yields for stakers.  
 
-No prior web-dev knowledge is required to use the theme to make a website, just follow the instructions in [/read-me](read-me) to set up your web page and start filling it with hackery content! You can see sone features of the theme in [/preview](preview).
+To learn more about the project and how it will benefit the entire WAVES ecosystem, head on over to [/about](about) and [/roadmap](roadmap).

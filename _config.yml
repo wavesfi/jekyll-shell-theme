@@ -1,7 +1,7 @@
-title: "jekyll-shell-theme"
-tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
-github_username: tareqdandachi
+title: "waves.fi - HOME"
+tagline: "DeFi Enabled WAVES NODE"
+description: " A Staking Yield Aggregator"
+github_username: wavesfi
 baseurl: "/"
 url: "https://wavesfi.github.io"
 
@@ -17,8 +17,8 @@ highlighter: rouge
 
 header_pages:
   - index.md
-  - read-me.md
-  - preview.md
+  - about.md
+  - roadmap.md
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
