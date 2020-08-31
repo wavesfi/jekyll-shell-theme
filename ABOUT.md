@@ -7,6 +7,7 @@
 - From the community, for the community
 - Launched via "Liquidity Staking"
 - Governed by DAO token holders
+- Developing DeFi DApps that benefit node stakers and the whole ecosystem
 
 
 ### WHY?
