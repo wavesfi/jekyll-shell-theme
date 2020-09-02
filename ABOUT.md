@@ -1,13 +1,13 @@
 <img src="assets/wavesfilogo.png" class="detail_header">
 
-# Waves Finance - A Yield Aggregating DeFi DAO
+# A Yield Aggregating DeFi DAO build on the Waves Protocol
 
 **Waves Finance** aims to become the first DeFi DAO build on [WAVES](https://waves.tech):
 
 - From the community, for the community
 - Launched via "Stake Mining"
 - Governed by DAO token holders
-- Development of WAVES DeFi DApps 
+- Created to fund the development of WAVES DeFi DApps 
 
 
 ### WHY?
