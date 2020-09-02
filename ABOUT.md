@@ -5,7 +5,7 @@
 **Waves.Fi** aims to become the first DeFi DAO build on [WAVES](https://waves.tech):
 
 - From the community, for the community
-- Launched via "Liquidity Staking"
+- Launched via "Stake Mining"
 - Governed by DAO token holders
 - Development of WAVES DeFi DApps 
 
