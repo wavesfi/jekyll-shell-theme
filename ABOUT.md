@@ -2,7 +2,7 @@
 
 # A Yield Aggregating DeFi DAO
 
-**Waves.Fi** aims to become the first DeFi DAO build on [WAVES](https://waves.tech):
+**Waves Finance** aims to become the first DeFi DAO build on [WAVES](https://waves.tech):
 
 - From the community, for the community
 - Launched via "Stake Mining"
@@ -14,7 +14,7 @@
 
 "DeFi" stands for “decentralized finance” and refers to the ecosystem comprised of financial applications that are being developed on top of blockchain systems. 
 
-The idea behind ***Waves.Fi*** is to develop and operate financial DApps on top of the Waves Protocol. These DApps are written to aggregate yields from the broader DeFi ecosystem (on-chain as well as cross-chain!). Profits are used to perpetually fund the DAO. Additionally, the same DApps will also be used by the ***Waves.Fi*** node. 
+The idea behind the ***Waves Finance DAO** is to develop and operate financial DApps on top of the Waves Protocol. These DApps are written to aggregate yields from the broader DeFi ecosystem (on-chain as well as cross-chain!). Profits are used to perpetually fund the DAO. Additionally, the same DApps will also be used by the ***Waves.Fi*** node. 
 
 Yielding returns which will far exceed simple Waves staking while at the same time developing and enhancing the ecosystem.
 
