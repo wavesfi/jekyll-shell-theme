@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-permalink_name: /
+permalink_name: /home
 title: WAVESNODE ADDRESS HERE
 
 detail_image: assets/wavesfilogo.png
