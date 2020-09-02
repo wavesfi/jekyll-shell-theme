@@ -3,7 +3,7 @@ tagline: "DeFi Enabled WAVES NODE"
 description: " A Staking Yield Aggregator"
 github_username: wavesfi
 baseurl: "/"
-url: "https://wavesfi.github.io"
+url: "https://waves.fi"
 
 plugins:
   - jemoji
